@@ -19,7 +19,6 @@ import androidx.core.app.NotificationManagerCompat;
 
 public class MainActivity extends AppCompatActivity {
     private Button btNotificacion;
-    private Button btNotificacionbtn;
 
     private PendingIntent pendingIntent;
     private PendingIntent noPendingIntent;
